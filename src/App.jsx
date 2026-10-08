@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from "react";
 import ReactMarkdown from "react-markdown";
 import "./App.css";
 
-const API_URL = "https://ai-chatbot-iota-tawny-56.vercel.app";
+const API_URL = "https://ai-chatbot-weld-chi-10.vercel.app";
 function App() {
   const [message, setMessage] = useState("");
   const [messages, setMessages] = useState([]);
